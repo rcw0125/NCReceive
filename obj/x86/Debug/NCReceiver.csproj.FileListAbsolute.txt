@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\nc\bin\Debug\NCReceiver.dll
+C:\Users\Administrator\Desktop\nc\bin\Debug\NCReceiver.pdb
+C:\Users\Administrator\Desktop\nc\obj\x86\Debug\NCReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\nc\obj\x86\Debug\NCReceiver.csproj.CopyComplete
+C:\Users\Administrator\Desktop\nc\obj\x86\Debug\NCReceiver.dll
+C:\Users\Administrator\Desktop\nc\obj\x86\Debug\NCReceiver.pdb
